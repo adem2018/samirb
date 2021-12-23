@@ -1,2 +1,2 @@
-.gitignor
+.gitignor.txt
 secret.html
